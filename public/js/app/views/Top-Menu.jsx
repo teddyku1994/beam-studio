@@ -593,7 +593,6 @@ define([
                 Discover(
                     'top-menu',
                     function (machines) {
-                        machines = Object.values(machines).filter(m => m.model.startsWith('fb'));
                         machines = DeviceList(machines);
                         refreshOption(machines);
                     }
