@@ -3,7 +3,7 @@ name: Electron CD Windows
 on:
   push:
     branch:
-      '*'
+      'action-test'
 
 jobs:
   build:
