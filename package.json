@@ -124,6 +124,7 @@
     },
     "win": {
       "icon": "app-icons/win-icon.ico",
+      "certificateSubjectName": "FLUX TECHNOLOGY INC.",
       "publisherName": "FLUX TECHNOLOGY INC."
     },
     "dmg": {
